@@ -1,0 +1,6485 @@
+[
+    {
+        "Name": "AWSSupport-TroubleshootS3AccessSameAccount",
+        "CreatedDate": "2022-04-11T15:35:59.179000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "2",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "TargetType": "/",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSupport-CollectECSInstanceLogs",
+        "CreatedDate": "2022-03-23T21:54:26.798000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSQuickStarts-Microsoft-Exchange",
+        "CreatedDate": "2022-03-01T22:53:51.590000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [],
+        "DocumentVersion": "2",
+        "DocumentType": "CloudFormation",
+        "SchemaVersion": "1.0",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSQuickStarts-Microsoft-IIS",
+        "CreatedDate": "2022-02-27T20:48:03.662000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [],
+        "DocumentVersion": "2",
+        "DocumentType": "CloudFormation",
+        "SchemaVersion": "1.0",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSQuickStarts-Microsoft-IIS-Existing-VPC",
+        "CreatedDate": "2022-02-27T20:47:48.705000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [],
+        "DocumentVersion": "3",
+        "DocumentType": "CloudFormation",
+        "SchemaVersion": "1.0",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSupport-CalculateEBSPerformanceMetrics",
+        "CreatedDate": "2022-02-25T17:30:44.057000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "3",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSFleetManager-StartGUIConnection",
+        "CreatedDate": "2022-02-08T17:15:15.034000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Session",
+        "SchemaVersion": "1.0",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSupport-RemediateLambdaS3Event",
+        "CreatedDate": "2022-01-11T18:39:13.578000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSupport-AnalyzeEMRLogs",
+        "CreatedDate": "2022-01-11T18:27:29.349000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "2",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSupport-ModifyEBSSnapshotPermission",
+        "CreatedDate": "2022-01-11T18:23:12.429000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSupport-ModifyRDSSnapshotPermission",
+        "CreatedDate": "2022-01-11T18:18:16.293000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSupport-ConfigureDNSQueryLogging",
+        "CreatedDate": "2021-12-15T16:50:52.236000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSSO-CreateSSOUser",
+        "CreatedDate": "2021-11-23T03:58:39.926000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSObservabilityExporter-HAClusterExporterInstallAndConfigure",
+        "CreatedDate": "2021-11-11T16:04:49.746000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [],
+        "DocumentVersion": "4",
+        "DocumentType": "Package",
+        "SchemaVersion": "2.0",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSQuickStarts-Microsoft-RdGateway-Domain-Joined",
+        "CreatedDate": "2021-11-11T06:42:14.244000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [],
+        "DocumentVersion": "1",
+        "DocumentType": "CloudFormation",
+        "SchemaVersion": "1.0",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSFleetManager-GetProcessDetails",
+        "CreatedDate": "2021-11-09T17:12:34.607000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "5",
+        "DocumentType": "Session",
+        "SchemaVersion": "1.0",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSFleetManager-TerminateProcess",
+        "CreatedDate": "2021-11-09T17:12:24.606000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "2",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSFleetManager-StartProcess",
+        "CreatedDate": "2021-11-09T17:12:17.616000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "3",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-ForceSQSStandardQueueMaxReceiveFailureTest_2020-11-27",
+        "CreatedDate": "2021-11-06T23:28:21.415000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "2",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-ChangeRestApiGwQuotaLimitSOP_2020-10-26",
+        "CreatedDate": "2021-11-06T23:20:51.370000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-ExceedRestApiGwQuotaTest_2020-09-21",
+        "CreatedDate": "2021-11-06T23:14:25.344000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-BreakSQSQueuePolicyTest_2020-11-27",
+        "CreatedDate": "2021-11-06T23:09:11.208000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "2",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-SimulateRestApiGwNetworkUnavailableTest_2020-09-21",
+        "CreatedDate": "2021-11-06T23:08:28.139000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-TriggerHttpWsApiGwThrottlingTest_2020-09-21",
+        "CreatedDate": "2021-11-06T22:58:39.891000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-ChangeLambdaProvisionedConcurrencySOP_2020-10-26",
+        "CreatedDate": "2021-11-06T22:55:43.441000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-BlockSQSDeleteMessageTest_2021-03-09",
+        "CreatedDate": "2021-11-06T22:49:44.844000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "2",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-RestoreDocumentDBClusterFromBackupSOP_2020-09-21",
+        "CreatedDate": "2021-11-06T22:47:14.604000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-RestoreDynamoDBTableFromBackupSOP_2020-04-01",
+        "CreatedDate": "2021-11-06T22:45:21.495000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-ForceDocumentDBDatabaseToBeInaccessibleTest_2020-09-21",
+        "CreatedDate": "2021-11-06T22:38:25.004000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-ForceSQSCapacityFailureTest_2021-03-13",
+        "CreatedDate": "2021-11-06T22:38:21.877000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "3",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-ScaleOutAsgSOP_2020-07-01",
+        "CreatedDate": "2021-11-06T22:34:40.915000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "2",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-KillStressOnHealthyInstances_2020-07-28",
+        "CreatedDate": "2021-11-06T22:31:48.154000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "2",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-ScaleUpEc2SOP_2020-05-20",
+        "CreatedDate": "2021-11-06T22:31:27.450000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-InjectCpuLoadInAsgTest_2021-09-22",
+        "CreatedDate": "2021-11-06T22:30:46.203000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "4",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-CreateEFSBackupSOP_2020-10-26",
+        "CreatedDate": "2021-11-06T22:23:30.953000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-RestoreEFSBackupInAnotherRegionSOP_2020-10-26",
+        "CreatedDate": "2021-11-06T22:23:30.903000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-ChangeEFSProvisionedThroughputSOP_2020-10-26",
+        "CreatedDate": "2021-11-06T22:23:30.903000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-BreakEFSSecurityGroupTest_2020-09-21",
+        "CreatedDate": "2021-11-06T22:23:30.871000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-ForceSQSFifoQueueMaxReceiveFailureTest_2020-11-27",
+        "CreatedDate": "2021-11-06T22:23:09.868000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "2",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-MoveSQSMessagesBetweenQueuesSOP_2021-03-11",
+        "CreatedDate": "2021-11-06T22:23:09.837000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "2",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-PurgeSQSQueueSOP_2021-03-11",
+        "CreatedDate": "2021-11-06T22:23:09.830000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-SimulateS3ObjectsAccidentalDeleteTest_2020-04-01",
+        "CreatedDate": "2021-11-06T22:23:09.535000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "2",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-RestoreS3BucketFromBackupSOP_2020-09-21",
+        "CreatedDate": "2021-11-06T22:23:09.134000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-CleanS3BucketUtil_2020-03-03",
+        "CreatedDate": "2021-11-06T22:23:08.797000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-RestoreS3ObjectToPreviousVersionSOP_2020-09-21",
+        "CreatedDate": "2021-11-06T22:23:08.791000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-RebootRdsInstanceTest_2020-04-01",
+        "CreatedDate": "2021-11-06T22:23:01.639000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "3",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-PromoteRdsReadReplicaSOP_2020-04-01",
+        "CreatedDate": "2021-11-06T22:23:01.595000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "3",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-BacktrackRdsSOP_2020-04-01",
+        "CreatedDate": "2021-11-06T22:23:01.573000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "3",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-FailoverRdsAuroraClusterTest_2020-04-01",
+        "CreatedDate": "2021-11-06T22:23:01.530000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "4",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-RestoreFromRdsBackupSOP_2020-04-01",
+        "CreatedDate": "2021-11-06T22:23:01.529000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "3",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-FailoverRdsInstanceTest_2020-04-01",
+        "CreatedDate": "2021-11-06T22:23:01.506000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "3",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-ChangeLambdaMemorySizeSOP_2020-10-26",
+        "CreatedDate": "2021-11-06T22:22:50.474000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-ForceLambdaThrottlingTest_2020-10-26",
+        "CreatedDate": "2021-11-06T22:22:50.158000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-BreakLambdaSecurityGroupTest_2020-09-21",
+        "CreatedDate": "2021-11-06T22:22:50.128000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-SwitchLambdaVersionInAliasSOP_2020-10-26",
+        "CreatedDate": "2021-11-06T22:22:50.094000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-ChangeLambdaExecutionTimeLimitSOP_2020-10-26",
+        "CreatedDate": "2021-11-06T22:22:50.079000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-ChangeLambdaConcurrencyLimitSOP_2020-10-26",
+        "CreatedDate": "2021-11-06T22:22:50.067000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-SimulateNatGwInternetUnavailableTest_2020-09-21",
+        "CreatedDate": "2021-11-06T22:22:38.856000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "2",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-PromoteDocumentDBReadReplicaSOP_2020-09-21",
+        "CreatedDate": "2021-11-06T22:22:11.286000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-TriggerRestApiGwThrottlingTest_2020-09-21",
+        "CreatedDate": "2021-11-06T22:21:54.938000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-RestoreDynamoDBTableToPointInTimeSOP_2020-04-01",
+        "CreatedDate": "2021-11-06T22:21:54.606000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-CopyDynamoDBTablePropertiesUtil_2020-04-01",
+        "CreatedDate": "2021-11-06T22:21:54.284000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "2",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-ForceDynamoDBTableReadThrottlingTest_2020-09-21",
+        "CreatedDate": "2021-11-06T22:21:54.257000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "2",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-UpdateDynamoDBTableProvisionedCapacitySOP_2020-04-01",
+        "CreatedDate": "2021-11-06T22:21:54.234000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "2",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-RebootDocumentDBInstanceTest_2020-09-21",
+        "CreatedDate": "2021-11-06T22:21:00.111000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "2",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-CreateNewDocumentDBInstanceSOP_2020-09-21",
+        "CreatedDate": "2021-11-06T22:20:59.142000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-RestoreDocumentDBClusterFromPointInTimeSOP_2020-09-21",
+        "CreatedDate": "2021-11-06T22:20:59.130000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-ScaleUpDocumentDBClusterSOP_2020-09-21",
+        "CreatedDate": "2021-11-06T22:20:57.757000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "2",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-ScaleDownDocumentDBClusterSOP_2020-09-21",
+        "CreatedDate": "2021-11-06T22:20:57.720000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-InjectCpuLoadInEc2Test_2020-07-28",
+        "CreatedDate": "2021-11-06T22:20:52.266000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "2",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-RebootEc2InstanceSOP_2020-05-20",
+        "CreatedDate": "2021-11-06T22:20:52.192000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-InjectMemoryLoadInEc2Test_2020-07-28",
+        "CreatedDate": "2021-11-06T22:20:52.153000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "2",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-KillProcessInEc2Test_2021-10-22",
+        "CreatedDate": "2021-11-06T22:20:52.083000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "3",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-InjectMemoryLoadInAsgTest_2020-10-11",
+        "CreatedDate": "2021-11-06T22:20:27.093000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "4",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-ScaleUpAsgSOP_2020-07-01",
+        "CreatedDate": "2021-11-06T22:20:26.944000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "2",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-SimulateAzOutageInAsgTest_2020-07-23",
+        "CreatedDate": "2021-11-06T22:20:26.906000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "4",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-RefreshInstancesInAsgTest_2020-07-23",
+        "CreatedDate": "2021-11-06T22:20:26.891000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "4",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-KillStressCommand_2020-07-28",
+        "CreatedDate": "2021-11-06T22:20:26.790000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Linux"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-RestoreFromBackupEbsSOP_2020-05-26",
+        "CreatedDate": "2021-11-06T18:35:07.351000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "2",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-IncreaseVolumeSizeEbsSOP_2020-05-26",
+        "CreatedDate": "2021-11-06T18:30:19.547000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "3",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-ChangeRestApiGwThrottlingSettingsSOP_2020-10-26",
+        "CreatedDate": "2021-11-06T17:30:02.099000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-UpdateRestApiGwVersionSOP_2020-10-26",
+        "CreatedDate": "2021-11-06T17:28:42.603000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-UpdateHttpWsApiGwVersionSOP_2020-10-26",
+        "CreatedDate": "2021-11-06T17:27:49.023000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSResilienceHub-ChangeHttpWsApiGwThrottlingSettingsSOP_2020-10-26",
+        "CreatedDate": "2021-11-06T17:27:49.023000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSFIS-Run-Network-Packet-Loss-Sources",
+        "CreatedDate": "2021-11-04T09:58:07.726000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Linux"
+        ],
+        "DocumentVersion": "3",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSFIS-Run-Network-Packet-Loss",
+        "CreatedDate": "2021-11-04T09:57:57.549000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Linux"
+        ],
+        "DocumentVersion": "3",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSFIS-Run-Network-Latency-Sources",
+        "CreatedDate": "2021-11-04T09:57:47.512000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Linux"
+        ],
+        "DocumentVersion": "3",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSFIS-Run-Network-Blackhole-Port",
+        "CreatedDate": "2021-11-04T09:57:37.309000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Linux"
+        ],
+        "DocumentVersion": "2",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSFIS-Run-IO-Stress",
+        "CreatedDate": "2021-11-04T09:57:27.211000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Linux"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSupport-RestoreEC2InstanceFromSnapshot",
+        "CreatedDate": "2021-10-28T15:42:37.516000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSObservabilityExporter-SAP-HANADBExporterInstallAndConfigure",
+        "CreatedDate": "2021-10-19T19:00:29.955000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [],
+        "DocumentVersion": "7",
+        "DocumentType": "Package",
+        "SchemaVersion": "2.0",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSupport-CheckXenToNitroMigrationRequirements",
+        "CreatedDate": "2021-10-18T15:55:40.876000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-BulkEditOpsItems",
+        "CreatedDate": "2021-09-22T17:07:13.201000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSQuickStarts-AmazonEKS-Existing-VPC",
+        "CreatedDate": "2021-09-16T23:16:19.102000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [],
+        "DocumentVersion": "5",
+        "DocumentType": "CloudFormation",
+        "SchemaVersion": "1.0",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSFleetManager-CopyFileSystemItem",
+        "CreatedDate": "2021-09-09T16:07:50.620000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "4",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSupport-TroubleshootSUSERegistration",
+        "CreatedDate": "2021-08-26T13:55:15.226000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "2",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSupport-TroubleshootCodeDeploy",
+        "CreatedDate": "2021-08-20T09:31:29.154000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "3",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AmazonEKS-ExecuteNonInteractiveCommand",
+        "CreatedDate": "2021-08-05T22:02:56.736000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Session",
+        "SchemaVersion": "1.0",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSQuickStarts-AWS-VPC",
+        "CreatedDate": "2021-07-08T23:25:12.612000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [],
+        "DocumentVersion": "2",
+        "DocumentType": "CloudFormation",
+        "SchemaVersion": "1.0",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSQuickStarts-Microsoft-RdGateway-Existing-VPC",
+        "CreatedDate": "2021-07-08T23:15:15.051000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [],
+        "DocumentVersion": "3",
+        "DocumentType": "CloudFormation",
+        "SchemaVersion": "1.0",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSFleetManager-RenameFileSystemItem",
+        "CreatedDate": "2021-07-08T16:04:54.621000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "5",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSQuickStarts-Microsoft-RdGateway",
+        "CreatedDate": "2021-07-08T00:31:35.788000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [],
+        "DocumentVersion": "4",
+        "DocumentType": "CloudFormation",
+        "SchemaVersion": "1.0",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSolutions-VideoOnDemandOnAWS",
+        "CreatedDate": "2021-07-01T21:00:06.206000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [],
+        "DocumentVersion": "1",
+        "DocumentType": "CloudFormation",
+        "SchemaVersion": "1.0",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSolutions-LiveStreamingOnAWS",
+        "CreatedDate": "2021-07-01T20:59:27.414000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [],
+        "DocumentVersion": "1",
+        "DocumentType": "CloudFormation",
+        "SchemaVersion": "1.0",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSolutions-AWSPerspective",
+        "CreatedDate": "2021-07-01T20:58:58.563000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [],
+        "DocumentVersion": "2",
+        "DocumentType": "CloudFormation",
+        "SchemaVersion": "1.0",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSolutions-ServerlessImageHandler",
+        "CreatedDate": "2021-06-30T23:05:40.519000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [],
+        "DocumentVersion": "2",
+        "DocumentType": "CloudFormation",
+        "SchemaVersion": "1.0",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSolutions-FraudDetectionUsingMachineLearning",
+        "CreatedDate": "2021-06-30T23:05:17.789000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [],
+        "DocumentVersion": "1",
+        "DocumentType": "CloudFormation",
+        "SchemaVersion": "1.0",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSFleetManager-MoveFileSystemItem",
+        "CreatedDate": "2021-06-29T16:10:34.916000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "6",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSupport-EnableVPCFlowLogs",
+        "CreatedDate": "2021-06-29T15:07:31.157000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "2",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSupport-CopyEC2Instance",
+        "CreatedDate": "2021-06-29T14:59:58.867000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "2",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSQuickStarts-AmazonEKS",
+        "CreatedDate": "2021-06-29T01:04:20.241000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [],
+        "DocumentVersion": "4",
+        "DocumentType": "CloudFormation",
+        "SchemaVersion": "1.0",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSQuickStarts-HashicorpVault",
+        "CreatedDate": "2021-06-29T01:03:16.749000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [],
+        "DocumentVersion": "1",
+        "DocumentType": "CloudFormation",
+        "SchemaVersion": "1.0",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSupport-TroubleshootLambdaS3Event",
+        "CreatedDate": "2021-06-28T04:32:03.806000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSupport-TroubleshootLambdaInternetAccess",
+        "CreatedDate": "2021-06-28T04:31:34.275000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSupport-CollectElasticBeanstalkLogs",
+        "CreatedDate": "2021-06-28T04:30:38.406000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSFleetManager-DeleteFileSystemItem",
+        "CreatedDate": "2021-06-24T16:27:18.861000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "6",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSFleetManager-CreateDirectory",
+        "CreatedDate": "2021-06-24T16:27:08.870000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "6",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSQuickStarts-HashicorpConsul",
+        "CreatedDate": "2021-06-15T23:37:47.793000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [],
+        "DocumentVersion": "1",
+        "DocumentType": "CloudFormation",
+        "SchemaVersion": "1.0",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSQuickStarts-LinuxBastion",
+        "CreatedDate": "2021-06-15T23:00:35.814000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [],
+        "DocumentVersion": "2",
+        "DocumentType": "CloudFormation",
+        "SchemaVersion": "1.0",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSQuickStarts-AmazonAuroraPostgreSQL",
+        "CreatedDate": "2021-06-15T22:58:05.046000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [],
+        "DocumentVersion": "1",
+        "DocumentType": "CloudFormation",
+        "SchemaVersion": "1.0",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSupport-TroubleshootManagedInstance",
+        "CreatedDate": "2021-06-15T16:04:46.477000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-CreateDSManagementInstance",
+        "CreatedDate": "2021-06-14T18:20:04.616000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::EC2::Instance",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSupport-ConfigureEC2Metadata",
+        "CreatedDate": "2021-06-09T07:53:37.456000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "3",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-SetRequiredTags",
+        "CreatedDate": "2021-05-26T20:51:55.141000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-ModifyDynamoDBProvisionedCapacity",
+        "CreatedDate": "2021-05-26T20:51:29.604000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-EnableVPCFlowLogs",
+        "CreatedDate": "2021-05-26T20:51:19.661000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-EnableCloudTrailLogFileValidation",
+        "CreatedDate": "2021-05-26T20:51:11.636000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-EnableCloudTrailKmsEncryption",
+        "CreatedDate": "2021-05-26T20:51:04.597000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-BulkResolveOpsItems",
+        "CreatedDate": "2021-05-26T20:49:26.172000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSIncidents-PostIncidentAnalysisTemplate",
+        "CreatedDate": "2021-05-07T02:18:20.217000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [],
+        "DocumentVersion": "1",
+        "DocumentType": "ProblemAnalysisTemplate",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-StartNonInteractiveCommand",
+        "CreatedDate": "2021-05-05T20:28:05.417000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Session",
+        "SchemaVersion": "1.0",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-RestrictIncomingTraffic",
+        "CreatedDate": "2021-05-05T20:27:35.504000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-EnableCloudTrailCloudWatchLogs",
+        "CreatedDate": "2021-05-05T20:27:15.508000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-EnableCWAlarm",
+        "CreatedDate": "2021-05-05T20:27:07.509000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-DisableEventBridgeRule",
+        "CreatedDate": "2021-05-05T20:26:56.493000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-CreateEncryptedRdsSnapshot",
+        "CreatedDate": "2021-05-05T20:26:29.497000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::RDS::DBInstance",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-CloseSecurityGroup",
+        "CreatedDate": "2021-05-05T20:26:14.984000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-AddOpsItemDedupStringToEventBridgeRule",
+        "CreatedDate": "2021-05-05T20:26:03.993000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSDistroOTel-Collector",
+        "CreatedDate": "2021-04-29T01:31:05.192000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [],
+        "DocumentVersion": "12",
+        "DocumentType": "Package",
+        "SchemaVersion": "2.0",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-DisableIncomingSSHOnPort22",
+        "CreatedDate": "2021-04-28T20:28:10.328000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-DeleteIAMInlinePolicy",
+        "CreatedDate": "2021-04-28T20:28:00.337000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-StartStopAuroraCluster",
+        "CreatedDate": "2021-04-27T19:29:27.544000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-EnableCLBAccessLogs",
+        "CreatedDate": "2021-04-27T19:28:48.566000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-ChangeDDBRWCapacityMode",
+        "CreatedDate": "2021-04-27T19:27:59.559000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSNitroEnclavesWindows",
+        "CreatedDate": "2021-04-27T02:05:15.006000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [],
+        "DocumentVersion": "2",
+        "DocumentType": "Package",
+        "SchemaVersion": "2.0",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-ModifyEBSVolumeType",
+        "CreatedDate": "2021-04-22T15:06:52.960000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::EC2::Volume",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-EnableCloudTrailEncryptionWithKMS",
+        "CreatedDate": "2021-04-22T15:06:12.855000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::CloudTrail::Trail",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-EnableBeanstalkEnvironmentNotifications",
+        "CreatedDate": "2021-04-22T15:05:58.864000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::ElasticBeanstalk::Environment",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-RemoveUserPolicies",
+        "CreatedDate": "2021-04-21T15:12:46.025000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::IAM::User",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-EnableVPCFlowLogsToS3Bucket",
+        "CreatedDate": "2021-04-21T15:12:24.054000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::EC2::FlowLog",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-EnableVPCFlowLogsToCloudWatch",
+        "CreatedDate": "2021-04-21T15:12:17.092000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::EC2::FlowLog",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-RemoveUnrestrictedSourceIngressRules",
+        "CreatedDate": "2021-04-20T15:10:37.488000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::EC2::SecurityGroup",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSAPTools-DataProvider",
+        "CreatedDate": "2021-04-15T22:39:14.919000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [],
+        "DocumentVersion": "9",
+        "DocumentType": "Package",
+        "SchemaVersion": "2.0",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-RemovePrincipalStarFromS3BucketPolicy",
+        "CreatedDate": "2021-04-13T15:10:23.553000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::S3::Bucket",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-DeleteRDSInstance",
+        "CreatedDate": "2021-04-13T15:09:13.575000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::RDS::DBInstance",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-DeleteVPCFlowLog",
+        "CreatedDate": "2021-04-12T15:11:32.470000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::EC2::FlowLog",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-UpdateAmazonECSAgent",
+        "CreatedDate": "2021-04-09T21:32:03.903000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-InstallAmazonECSAgent",
+        "CreatedDate": "2021-04-09T21:31:40.900000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-DeleteIAMUser",
+        "CreatedDate": "2021-04-08T15:11:59.504000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::IAM::User",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-EnableCloudFrontAccessLogs",
+        "CreatedDate": "2021-04-01T15:12:16.734000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::CloudFront::Distribution",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-EnableCloudTrailLogFileValidation",
+        "CreatedDate": "2021-03-31T15:13:37.785000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::CloudTrail::Trail",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-EnableAutoScalingGroupELBHealthCheck",
+        "CreatedDate": "2021-03-26T15:07:18.734000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::AutoScaling::AutoScalingGroup",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-DeleteSecret",
+        "CreatedDate": "2021-03-25T15:37:44.208000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::SecretsManager::Secret",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-RestrictBucketSSLRequestsOnly",
+        "CreatedDate": "2021-03-24T15:10:17.891000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::S3::Bucket",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-EnableWAFClassicLogging",
+        "CreatedDate": "2021-03-24T15:09:56.927000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::WAF::WebACL",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-DeleteUnusedIAMPolicy",
+        "CreatedDate": "2021-03-24T15:09:10.918000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::IAM::Policy",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-ExportPatchReportToS3",
+        "CreatedDate": "2021-03-23T20:06:01.100000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-InstanceRebootWithHooks",
+        "CreatedDate": "2021-03-23T20:05:37.829000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-DetachAndDeleteInternetGateway",
+        "CreatedDate": "2021-03-17T15:08:47.034000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::EC2::InternetGateway",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-DisablePublicAccessToRedshiftCluster",
+        "CreatedDate": "2021-03-16T15:10:28.384000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::Redshift::Cluster",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-DisablePublicAccessToRDSInstance",
+        "CreatedDate": "2021-03-16T15:10:21.443000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::RDS::DBInstance",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-ReplaceIAMInlinePolicy",
+        "CreatedDate": "2021-03-15T15:08:30.656000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::IAM::Policy",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-EnableCWLoggingForSessionManager",
+        "CreatedDate": "2021-03-12T16:08:35.731000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::SSM::Document",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-DropInvalidHeadersForALB",
+        "CreatedDate": "2021-03-12T16:08:25.741000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::ElasticLoadBalancingV2::LoadBalancer",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-EnableCloudFrontDefaultRootObject",
+        "CreatedDate": "2021-03-11T16:09:25.235000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::CloudFront::Distribution",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-DetachAndDeleteVirtualPrivateGateway",
+        "CreatedDate": "2021-03-10T16:08:06.861000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::EC2::VPNGateway",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-DeleteRDSClusterSnapshot",
+        "CreatedDate": "2021-03-10T16:07:52.892000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::RDS::DBClusterSnapshot",
+        "Tags": []
+    },
+    {
+        "Name": "AWSIncidents-CriticalIncidentRunbookTemplate",
+        "CreatedDate": "2021-03-04T11:32:40.839000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "2",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-UpdateAPIGatewayMethodCaching",
+        "CreatedDate": "2021-03-03T16:12:47.319000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::ApiGateway::Stage",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-EnableWAFV2Logging",
+        "CreatedDate": "2021-03-03T16:12:26.282000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::WAFv2::WebACL",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSupport-SetupConfig",
+        "CreatedDate": "2021-03-03T08:53:03.280000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "2",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-DeleteElasticsearchDomain",
+        "CreatedDate": "2021-03-02T16:11:44.092000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::Elasticsearch::Domain",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-CancelKeyDeletion",
+        "CreatedDate": "2021-03-02T16:11:19.641000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "2",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::KMS::Key",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-EnableLoggingForALBAndCLB",
+        "CreatedDate": "2021-03-01T16:06:54.407000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::ElasticLoadBalancing::LoadBalancer",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-CreateCloudTrailMultiRegionTrail",
+        "CreatedDate": "2021-03-01T16:06:16.406000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "2",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::CloudTrail::Trail",
+        "Tags": []
+    },
+    {
+        "Name": "AWSFIS-Run-Network-Latency",
+        "CreatedDate": "2021-02-22T15:27:30.671000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Linux"
+        ],
+        "DocumentVersion": "8",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSFIS-Run-Kill-Process",
+        "CreatedDate": "2021-02-22T15:26:47.739000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Linux"
+        ],
+        "DocumentVersion": "3",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSFIS-Run-Memory-Stress",
+        "CreatedDate": "2021-02-22T15:24:53.108000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Linux"
+        ],
+        "DocumentVersion": "5",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSupport-MigrateEC2ClassicToVPC",
+        "CreatedDate": "2021-02-19T18:08:18.535000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "2",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSFIS-Run-CPU-Stress",
+        "CreatedDate": "2021-02-16T10:55:43.129000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Linux"
+        ],
+        "DocumentVersion": "5",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-UpdateElasticsearchDomainSecurityGroups",
+        "CreatedDate": "2021-02-02T16:07:25.847000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::Elasticsearch::Domain",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-ModifyRedshiftClusterNodeType",
+        "CreatedDate": "2021-02-02T16:07:12.875000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::Redshift::Cluster",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-UpdateXRayKMSKey",
+        "CreatedDate": "2021-01-29T16:11:29.814000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::XRay::EncryptionConfig",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSupport-RecoverWorkSpace",
+        "CreatedDate": "2021-01-29T11:51:47.251000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSupport-RecoverWorkSpaceWithApproval",
+        "CreatedDate": "2021-01-29T11:51:47.143000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-RotateSecret",
+        "CreatedDate": "2021-01-28T16:08:24.239000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::SecretsManager::Secret",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-EnableELBDeletionProtection",
+        "CreatedDate": "2021-01-28T16:07:47.227000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::ElasticLoadBalancingV2::LoadBalancer",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-EnableCloudFrontViewerPolicyHTTPS",
+        "CreatedDate": "2021-01-28T16:07:38.260000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::CloudFront::Distribution",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-EnableCLBCrossZoneLoadBalancing",
+        "CreatedDate": "2021-01-28T16:07:29.291000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::ElasticLoadBalancing::LoadBalancer",
+        "Tags": []
+    },
+    {
+        "Name": "AmazonECS-ExecuteInteractiveCommand",
+        "CreatedDate": "2021-01-15T21:37:36.418000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "2",
+        "DocumentType": "Session",
+        "SchemaVersion": "1.0",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-RunPatchBaselineWithHooks",
+        "CreatedDate": "2021-01-12T22:12:14.713000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSupport-CheckAndMountEFS",
+        "CreatedDate": "2021-01-06T05:19:26.151000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "4",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSDocs-ScaleLoadBalanced",
+        "CreatedDate": "2020-12-30T01:09:05.770000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "3",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSDocs-S3StaticWebsiteCustomDomain",
+        "CreatedDate": "2020-12-30T01:08:56.966000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "3",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSDocs-S3StaticWebsite",
+        "CreatedDate": "2020-12-30T01:08:48.270000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "3",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSDocs-LambdaWithS3SSMDocument",
+        "CreatedDate": "2020-12-30T01:08:39.491000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "3",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSDocs-Configure-SSL-TLS-AL2",
+        "CreatedDate": "2020-12-30T01:08:21.928000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "3",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSDocs-Configure-SSL-TLS-AL",
+        "CreatedDate": "2020-12-30T01:08:13.115000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "3",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSDocs-ClassicLoadBalancerSSMDocument",
+        "CreatedDate": "2020-12-30T01:08:02.057000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "3",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-EnableRedshiftClusterAuditLogging",
+        "CreatedDate": "2020-12-29T16:08:59.299000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::Redshift::Cluster",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-EnableRDSInstanceBackup",
+        "CreatedDate": "2020-12-29T16:08:51.236000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::RDS::DBInstance",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-EnableCopyTagsToSnapshotOnRDSCluster",
+        "CreatedDate": "2020-12-29T16:08:33.220000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::RDS::DBCluster",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-DeleteRDSCluster",
+        "CreatedDate": "2020-12-29T16:08:13.216000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::RDS::DBCluster",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-ModifyRedshiftClusterMaintenanceSettings",
+        "CreatedDate": "2020-12-28T16:13:38.794000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::Redshift::Cluster",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-EnableRedshiftClusterEnhancedVPCRouting",
+        "CreatedDate": "2020-12-23T16:07:01.716000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::Redshift::Cluster",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-EnableMinorVersionUpgradeOnRDSDBInstance",
+        "CreatedDate": "2020-12-23T16:06:46.732000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::RDS::DBInstance",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-EnableElasticBeanstalkEnvironmentLogStreaming",
+        "CreatedDate": "2020-12-23T16:06:37.786000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::ElasticBeanstalk::Environment",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-EnforceSSLOnlyConnectionsToRedshiftCluster",
+        "CreatedDate": "2020-12-22T16:05:35.541000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::Redshift::Cluster",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-EnableRDSClusterDeletionProtection",
+        "CreatedDate": "2020-12-22T16:05:18.521000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::RDS::DBCluster",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-EnableCloudFrontOriginFailover",
+        "CreatedDate": "2020-12-22T16:05:03.559000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::CloudFront::Distribution",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-ConfigureCodeBuildProjectWithKMSCMK",
+        "CreatedDate": "2020-12-22T16:04:33.560000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::CodeBuild::Project",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-RevokeUnusedIAMUserCredentials",
+        "CreatedDate": "2020-12-18T16:07:42.789000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "2",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::Lambda::Function",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-EnableRedshiftClusterAutomatedSnapshot",
+        "CreatedDate": "2020-12-18T16:07:23.772000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::Redshift::Cluster",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-EnableAPIGatewayTracing",
+        "CreatedDate": "2020-12-18T16:07:05.763000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::ApiGateway::Stage",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-DeleteIAMRole",
+        "CreatedDate": "2020-12-18T16:06:48.766000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::IAM:Role",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-DeleteAPIGatewayStage",
+        "CreatedDate": "2020-12-18T16:06:37.763000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::ApiGateway::Stage",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-EnableCloudFrontOriginAccessIdentity",
+        "CreatedDate": "2020-12-17T16:03:54.607000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::CloudFront::Distribution",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-DeleteLambdaFunction",
+        "CreatedDate": "2020-12-17T16:03:37.625000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::Lambda::Function",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSQLServer-Restore",
+        "CreatedDate": "2020-12-14T05:19:37.403000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "17",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::EC2::Instance",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSQLServer-Backup",
+        "CreatedDate": "2020-12-14T05:19:37.045000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "17",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::EC2::Instance",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSQLServer-DBCC",
+        "CreatedDate": "2020-12-14T05:19:36.579000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "15",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::EC2::Instance",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSQLServer-Index",
+        "CreatedDate": "2020-12-14T05:19:36.153000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "15",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::EC2::Instance",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-UpdateEKSManagedNodegroupVersion",
+        "CreatedDate": "2020-12-12T19:04:50.820000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-DeleteEKSCluster",
+        "CreatedDate": "2020-12-12T19:04:18.853000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-HelloWorld",
+        "CreatedDate": "2020-12-12T16:07:10.863000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-HelloWorldChangeTemplate",
+        "CreatedDate": "2020-12-12T16:06:25.811000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation.ChangeTemplate",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": [],
+        "ReviewStatus": "APPROVED",
+        "Author": "Amazon"
+    },
+    {
+        "Name": "AWSConfigRemediation-SetIAMPasswordPolicy",
+        "CreatedDate": "2020-12-07T22:10:41.757000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::::Account",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-RemoveVPCDefaultSecurityGroupRules",
+        "CreatedDate": "2020-12-07T22:10:34.755000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::EC2::SecurityGroup",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-MoveLambdaToVPC",
+        "CreatedDate": "2020-12-07T22:10:26.872000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::Lambda::Function",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-ModifyRDSInstancePortNumber",
+        "CreatedDate": "2020-12-07T22:10:19.765000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::RDS::DBInstance",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-EnforceHttpsOnEsDomain",
+        "CreatedDate": "2020-12-07T22:10:12.828000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::Elasticsearch::Domain",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-EncryptSNSTopic",
+        "CreatedDate": "2020-12-07T22:10:04.737000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::SNS::Topic",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-EncryptLambdaEnvironmentVariablesWithCMK",
+        "CreatedDate": "2020-12-07T22:09:57.784000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::Lambda::Function",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-EnableWAFClassicRegionalLogging",
+        "CreatedDate": "2020-12-07T22:09:50.741000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::WAFRegional::WebACL",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-EnableSystemsManagerSessionManagerAuditLogsToS3",
+        "CreatedDate": "2020-12-07T22:09:43.741000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::SSM::Document",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-EnableSecurityHub",
+        "CreatedDate": "2020-12-07T22:09:36.748000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::SecurityHub::Hub",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-EnablePerformanceInsightsOnRDSInstance",
+        "CreatedDate": "2020-12-07T22:09:27.748000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::RDS::DBInstance",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-EnableNLBCrossZoneLoadBalancing",
+        "CreatedDate": "2020-12-07T22:09:19.776000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": " .3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::ElasticLoadBalancingV2::LoadBalancer",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-EnableCopyTagsToSnapshotOnRDSDBInstance",
+        "CreatedDate": "2020-12-07T22:09:08.747000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::RDS::Instance",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-DisableSubnetAutoAssignPublicIP",
+        "CreatedDate": "2020-12-07T22:09:00.747000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::EC2::Subnet",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-DetachIAMPolicy",
+        "CreatedDate": "2020-12-07T22:08:53.746000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::IAM::Policy",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-DeleteUnusedENI",
+        "CreatedDate": "2020-12-07T22:08:43.741000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::EC2::NetworkInterface",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-DeleteUnusedEBSVolume",
+        "CreatedDate": "2020-12-07T22:08:36.776000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "2",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::EC2::Volume",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-DeleteRDSInstanceSnapshot",
+        "CreatedDate": "2020-12-07T22:08:28.763000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::RDS::DBInstance",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-DeleteAccessKeysFromCodeBuildProject",
+        "CreatedDate": "2020-12-07T22:08:18.768000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::CodeBuild::Project",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-EnableExplorer",
+        "CreatedDate": "2020-12-07T15:38:13.344000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSFleetManager-GetPerformanceCounters",
+        "CreatedDate": "2020-12-05T21:22:20.785000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "12",
+        "DocumentType": "Session",
+        "SchemaVersion": "1.0",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSFleetManager-GetFileContent",
+        "CreatedDate": "2020-12-05T21:22:13.780000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "7",
+        "DocumentType": "Session",
+        "SchemaVersion": "1.0",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSFleetManager-CreateUserInteractive",
+        "CreatedDate": "2020-12-05T21:22:06.778000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "9",
+        "DocumentType": "Session",
+        "SchemaVersion": "1.0",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSFleetManager-SetWindowsRegistryValue",
+        "CreatedDate": "2020-12-05T21:21:59.799000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows"
+        ],
+        "DocumentVersion": "5",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSFleetManager-RemoveUsersFromGroups",
+        "CreatedDate": "2020-12-05T21:21:52.787000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "9",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSFleetManager-GetWindowsRegistryContent",
+        "CreatedDate": "2020-12-05T21:21:45.787000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows"
+        ],
+        "DocumentVersion": "2",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSFleetManager-GetWindowsEvents",
+        "CreatedDate": "2020-12-05T21:21:38.793000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows"
+        ],
+        "DocumentVersion": "6",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSFleetManager-GetUsers",
+        "CreatedDate": "2020-12-05T21:21:31.795000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "10",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSFleetManager-GetGroups",
+        "CreatedDate": "2020-12-05T21:21:24.787000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "12",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSFleetManager-GetFileSystemContent",
+        "CreatedDate": "2020-12-05T21:21:17.795000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "11",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSFleetManager-DeleteWindowsRegistryValue",
+        "CreatedDate": "2020-12-05T21:21:10.282000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows"
+        ],
+        "DocumentVersion": "5",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSFleetManager-DeleteWindowsRegistryKey",
+        "CreatedDate": "2020-12-05T21:21:03.286000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows"
+        ],
+        "DocumentVersion": "5",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSFleetManager-DeleteUser",
+        "CreatedDate": "2020-12-05T21:20:56.283000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "9",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSFleetManager-DeleteGroup",
+        "CreatedDate": "2020-12-05T21:20:49.301000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "9",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSFleetManager-CreateWindowsRegistryKey",
+        "CreatedDate": "2020-12-05T21:20:42.278000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows"
+        ],
+        "DocumentVersion": "5",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSFleetManager-CreateUser",
+        "CreatedDate": "2020-12-05T21:20:35.281000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "9",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSFleetManager-CreateGroup",
+        "CreatedDate": "2020-12-05T21:20:28.281000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "9",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSFleetManager-AddUsersToGroups",
+        "CreatedDate": "2020-12-05T21:20:21.311000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "13",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-EnforceEC2InstanceIMDSv2",
+        "CreatedDate": "2020-11-13T16:09:03.251000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::EC2::Instance",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-EnableKeyRotation",
+        "CreatedDate": "2020-11-13T16:08:52.243000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::KMS::Key",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-DeleteRedshiftCluster",
+        "CreatedDate": "2020-11-13T16:08:39.224000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::Redshift::Cluster",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-DeleteDynamoDbTable",
+        "CreatedDate": "2020-11-13T16:08:31.244000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::DynamoDB::Table",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-ConfigureS3BucketPublicAccessBlock",
+        "CreatedDate": "2020-11-13T16:08:21.301000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::S3::Bucket",
+        "Tags": []
+    },
+    {
+        "Name": "AWSObservabilityExporter-JMXExporterInstallAndConfigure",
+        "CreatedDate": "2020-11-11T20:13:10.780000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [],
+        "DocumentVersion": "5",
+        "DocumentType": "Package",
+        "SchemaVersion": "2.0",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSEC2-DetectWorkload",
+        "CreatedDate": "2020-11-06T12:23:40.829000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "19",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-EnableRedshiftClusterEncryption",
+        "CreatedDate": "2020-11-05T16:05:30.189000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::Redshift::Cluster",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-EnablePITRForDynamoDbTable",
+        "CreatedDate": "2020-10-29T15:10:43.650000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::DynamoDB::Table",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-EnableAccountAccessAnalyzer",
+        "CreatedDate": "2020-10-29T15:10:33.755000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::AccessAnalyzer::Analyzer",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-DeleteEgressOnlyInternetGateway",
+        "CreatedDate": "2020-10-29T15:10:23.735000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::EC2::EgressOnlyInternetGateway",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-DeleteDefaultVPCRoutes",
+        "CreatedDate": "2020-10-29T15:10:16.710000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::EC2::RouteTable",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-EnableRDSInstanceDeletionProtection",
+        "CreatedDate": "2020-10-20T15:05:16.417000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::RDS::DBInstance",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-DeleteUnusedVPCNetworkACL",
+        "CreatedDate": "2020-10-20T15:05:06.441000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::EC2::NetworkAcl",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-EnableMultiAZOnRDSInstance",
+        "CreatedDate": "2020-10-15T15:06:36.031000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::RDS::DBInstance",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-EnableEncryptionOnDynamoDbTable",
+        "CreatedDate": "2020-10-15T15:06:29.039000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::DynamoDB::Table",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-EnableEbsEncryptionByDefault",
+        "CreatedDate": "2020-10-15T15:06:22.027000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "2",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::::Account",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-DeleteUnusedSecurityGroup",
+        "CreatedDate": "2020-10-15T15:06:15.028000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::EC2::SecurityGroup",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-CreateGuardDutyDetector",
+        "CreatedDate": "2020-10-15T15:06:07.018000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-ConfigureS3PublicAccessBlock",
+        "CreatedDate": "2020-10-15T15:06:00.044000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "2",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-ConfigureLambdaFunctionXRayTracing",
+        "CreatedDate": "2020-10-15T15:05:53.092000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::Lambda::Function",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSupport-CollectEKSInstanceLogs",
+        "CreatedDate": "2020-10-08T15:09:12.906000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "2",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSupport-ConnectivityTroubleshooter",
+        "CreatedDate": "2020-10-08T11:00:30.974000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "2",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSupport-TroubleshootS3PublicRead",
+        "CreatedDate": "2020-10-08T10:23:51.702000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "4",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AmazonEFSUtils",
+        "CreatedDate": "2020-09-24T05:17:54.219000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [],
+        "DocumentVersion": "10",
+        "DocumentType": "Package",
+        "SchemaVersion": "2.0",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSupport-ShareRDSSnapshot",
+        "CreatedDate": "2020-09-03T15:26:21.852000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "2",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSupport-ListEC2Resources",
+        "CreatedDate": "2020-08-31T12:15:10.007000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "4",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-DeleteUnusedIAMGroup",
+        "CreatedDate": "2020-08-12T17:18:13.632000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "2",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::IAM::Group",
+        "Tags": []
+    },
+    {
+        "Name": "AWSEC2Launch-Agent",
+        "CreatedDate": "2020-08-10T07:01:50.722000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [],
+        "DocumentVersion": "18",
+        "DocumentType": "Package",
+        "SchemaVersion": "2.0",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSConfigRemediation-EnableEnhancedMonitoringOnRDSInstance",
+        "CreatedDate": "2020-08-05T17:32:50.060000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "2",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::RDS::DBInstance",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-ConfigureKernelLivePatching",
+        "CreatedDate": "2020-07-08T17:22:23.608000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Linux"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSCodeDeployAgent",
+        "CreatedDate": "2020-06-22T16:29:23.788000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [],
+        "DocumentVersion": "8",
+        "DocumentType": "Package",
+        "SchemaVersion": "2.0",
+        "DocumentFormat": "JSON",
+        "TargetType": "/AWS::EC2::Instance",
+        "Tags": []
+    },
+    {
+        "Name": "AWSEC2Launch-RunMigration",
+        "CreatedDate": "2020-06-20T01:40:01.180000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows"
+        ],
+        "DocumentVersion": "8",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSAP-Backint",
+        "CreatedDate": "2020-05-19T22:23:15.292000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [],
+        "DocumentVersion": "10",
+        "DocumentType": "Package",
+        "SchemaVersion": "2.0",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-ConfigureCloudTrailLogging",
+        "CreatedDate": "2020-05-13T17:22:30.289000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-RunPatchBaselineAssociation",
+        "CreatedDate": "2020-05-13T17:22:19.202000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSAP-InstallBackint",
+        "CreatedDate": "2020-04-28T15:09:29.092000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "11",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AwsEnaNetworkDriver",
+        "CreatedDate": "2020-04-16T21:46:42.479000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [],
+        "DocumentVersion": "10",
+        "DocumentType": "Package",
+        "SchemaVersion": "2.0",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AwsVssComponents",
+        "CreatedDate": "2020-04-16T21:45:44.404000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [],
+        "DocumentVersion": "5",
+        "DocumentType": "Package",
+        "SchemaVersion": "2.0",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSNVMe",
+        "CreatedDate": "2020-04-16T21:45:08.029000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [],
+        "DocumentVersion": "4",
+        "DocumentType": "Package",
+        "SchemaVersion": "2.0",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSPVDriver",
+        "CreatedDate": "2020-04-16T21:43:00.062000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [],
+        "DocumentVersion": "17",
+        "DocumentType": "Package",
+        "SchemaVersion": "2.0",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSKinesisTap",
+        "CreatedDate": "2020-04-16T21:42:45.915000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [],
+        "DocumentVersion": "17",
+        "DocumentType": "Package",
+        "SchemaVersion": "2.0",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSupport-EC2Rescue",
+        "CreatedDate": "2020-04-16T21:42:32.272000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [],
+        "DocumentVersion": "7",
+        "DocumentType": "Package",
+        "SchemaVersion": "2.0",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AmazonCloudWatchAgent",
+        "CreatedDate": "2020-04-16T21:35:26.819000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [],
+        "DocumentVersion": "32",
+        "DocumentType": "Package",
+        "SchemaVersion": "2.0",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSupport-TroubleshootDirectoryTrust",
+        "CreatedDate": "2020-03-23T17:23:30.570000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSupport-TroubleshootConnectivityToRDS",
+        "CreatedDate": "2020-03-23T14:58:06.244000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSEC2-CloneInstanceAndUpgradeWindows2019",
+        "CreatedDate": "2020-03-09T15:50:53.941000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "11",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-ApplyChefRecipes",
+        "CreatedDate": "2020-03-04T18:19:58.647000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Linux"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSEC2-ConfigureSTIG",
+        "CreatedDate": "2020-02-18T06:22:07.791000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "16",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-StartInteractiveCommand",
+        "CreatedDate": "2020-01-09T21:11:16.934000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Session",
+        "SchemaVersion": "1.0",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSDocs-InstallALAMPServer-AL2",
+        "CreatedDate": "2019-11-18T22:55:41.711000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "7",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSDocs-InstallALAMPServer-AL",
+        "CreatedDate": "2019-11-18T22:55:33.752000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "8",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSDocs-HostingAWordPressBlog-AL2",
+        "CreatedDate": "2019-11-18T22:55:26.856000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "5",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSDocs-HostingAWordPressBlog-AL",
+        "CreatedDate": "2019-11-18T22:55:19.735000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "5",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-RunCfnLint",
+        "CreatedDate": "2019-11-14T17:22:14.757000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-StartPortForwardingSessionToSocket",
+        "CreatedDate": "2019-11-08T22:41:44.223000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Session",
+        "SchemaVersion": "1.0",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-RunPacker",
+        "CreatedDate": "2019-11-08T22:40:51.421000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-ExportOpsDataToS3",
+        "CreatedDate": "2019-11-08T22:40:01.334000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-CreateServiceNowIncident",
+        "CreatedDate": "2019-11-08T22:39:08.264000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-CreateRdsSnapshot",
+        "CreatedDate": "2019-11-08T22:39:00.885000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::RDS::DBInstance",
+        "Tags": []
+    },
+    {
+        "Name": "AWSEC2-CheckPerformanceCounterSets",
+        "CreatedDate": "2019-10-22T19:20:15.614000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows"
+        ],
+        "DocumentVersion": "6",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-ApplyAnsiblePlaybooks",
+        "CreatedDate": "2019-09-12T20:07:19.608000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Linux"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-StartPortForwardingSession",
+        "CreatedDate": "2019-07-24T17:20:52.139000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Session",
+        "SchemaVersion": "1.0",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-StartSSHSession",
+        "CreatedDate": "2019-06-12T21:33:03.766000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Session",
+        "SchemaVersion": "1.0",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-PasswordReset",
+        "CreatedDate": "2019-06-12T21:33:02.783000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Session",
+        "SchemaVersion": "1.0",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSEC2-SQLServerDBRestore",
+        "CreatedDate": "2019-04-04T22:32:57.154000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "5",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-PublishSNSNotification",
+        "CreatedDate": "2019-02-07T23:47:49.007000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::SNS::Topic",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-DisablePublicAccessForSecurityGroup",
+        "CreatedDate": "2019-01-09T18:04:57.244000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::EC2::SecurityGroup",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-CreateJiraIssue",
+        "CreatedDate": "2019-01-09T18:04:50.369000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-ReleaseElasticIP",
+        "CreatedDate": "2018-12-12T18:04:06.860000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::EC2::EIP",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-EnableCloudTrail",
+        "CreatedDate": "2018-12-05T18:05:13.578000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSEC2-CloneInstanceAndUpgradeSQLServer",
+        "CreatedDate": "2018-11-21T00:44:19.394000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "22",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSEC2-CloneInstanceAndUpgradeWindows",
+        "CreatedDate": "2018-11-21T00:42:00.983000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "24",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWSEC2-ApplicationInsightsCloudwatchAgentInstallAndConfigure",
+        "CreatedDate": "2018-11-14T23:36:27.991000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "7",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-ApplyDSCMofs",
+        "CreatedDate": "2018-10-31T17:04:00.191000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSupport-SetupIPMonitoringFromVPC",
+        "CreatedDate": "2018-10-30T00:01:41.242000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "3",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSupport-TerminateIPMonitoringFromVPC",
+        "CreatedDate": "2018-10-30T00:01:04.777000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "2",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSupport-StartEC2RescueWorkflow",
+        "CreatedDate": "2018-09-13T11:45:17.829000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "13",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-EnableS3BucketEncryption",
+        "CreatedDate": "2018-09-05T17:04:24.897000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::S3::Bucket",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-ConfigureS3BucketLogging",
+        "CreatedDate": "2018-08-31T21:16:00.045000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::S3::Bucket",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSupport-TroubleshootSSH",
+        "CreatedDate": "2018-08-28T17:54:19.065000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "2",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-DisableS3BucketPublicReadWrite",
+        "CreatedDate": "2018-08-27T17:53:11.267000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::S3::Bucket",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-ConfigureS3BucketVersioning",
+        "CreatedDate": "2018-08-27T17:53:10.329000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::S3::Bucket",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSupport-UpgradeWindowsAWSDrivers",
+        "CreatedDate": "2018-08-10T05:04:13.681000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows"
+        ],
+        "DocumentVersion": "8",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-PatchInstanceWithRollback",
+        "CreatedDate": "2018-08-08T17:03:29.166000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "TargetType": "/AWS::EC2::Instance",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-DeleteImage",
+        "CreatedDate": "2018-08-08T17:03:27.035000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-DeleteEbsVolumeSnapshots",
+        "CreatedDate": "2018-08-08T17:03:26.071000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "TargetType": "/AWS::EC2::Volume",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-CreateImage",
+        "CreatedDate": "2018-08-08T17:03:22.388000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "TargetType": "/AWS::EC2::Instance",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-DeleteDynamoDbTableBackups",
+        "CreatedDate": "2018-07-25T17:05:19.431000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-DeleteDynamoDbBackup",
+        "CreatedDate": "2018-07-25T17:05:18.426000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-CreateDynamoDbBackup",
+        "CreatedDate": "2018-07-25T17:05:16.463000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-SetupManagedInstance",
+        "CreatedDate": "2018-07-18T22:28:21.149000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "TargetType": "/AWS::EC2::Instance",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-SetupManagedRoleOnEc2Instance",
+        "CreatedDate": "2018-07-11T17:03:04.846000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "TargetType": "/AWS::EC2::Instance",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-SetupInventory",
+        "CreatedDate": "2018-07-11T17:03:03.869000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "TargetType": "/AWS::EC2::Instance",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-PatchAsgInstance",
+        "CreatedDate": "2018-07-11T17:03:01.929000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "TargetType": "/AWS::EC2::Instance",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSupport-TroubleshootRDP",
+        "CreatedDate": "2018-07-04T00:47:40.955000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "3",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSupport-ManageRDPSettings",
+        "CreatedDate": "2018-07-03T23:39:29.143000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "2",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSupport-ManageWindowsService",
+        "CreatedDate": "2018-07-03T22:23:52.946000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "4",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-RunPatchBaseline",
+        "CreatedDate": "2018-06-22T21:33:19.422000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-StopRdsInstance",
+        "CreatedDate": "2018-06-13T23:55:32.252000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::RDS::DBInstance",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-StartRdsInstance",
+        "CreatedDate": "2018-06-13T23:55:31.657000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::RDS::DBInstance",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-RebootRdsInstance",
+        "CreatedDate": "2018-06-13T23:55:31.117000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::RDS::DBInstance",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-ApplyPatchBaseline",
+        "CreatedDate": "2018-06-09T00:41:44.985000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Command",
+        "SchemaVersion": "1.2",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSupport-ActivateWindowsWithAmazonLicense",
+        "CreatedDate": "2018-04-23T23:40:08.063000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "7",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSupport-SendLogBundleToS3Bucket",
+        "CreatedDate": "2018-04-23T22:03:35.216000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "5",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSupport-GrantPermissionsToIAMUser",
+        "CreatedDate": "2018-04-20T23:16:35.666000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "5",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-ConfigureCloudWatchOnEC2Instance",
+        "CreatedDate": "2018-04-04T20:11:53.405000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::EC2::Instance",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-CreateManagedLinuxInstanceWithApproval",
+        "CreatedDate": "2018-03-22T23:35:35.805000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "TargetType": "/AWS::EC2::Instance",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-CreateManagedLinuxInstance",
+        "CreatedDate": "2018-03-22T23:29:06.027000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "TargetType": "/AWS::EC2::Instance",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-CreateManagedWindowsInstanceWithApproval",
+        "CreatedDate": "2018-03-22T23:10:18.341000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "TargetType": "/AWS::EC2::Instance",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-CreateManagedWindowsInstance",
+        "CreatedDate": "2018-03-22T21:27:30.732000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "TargetType": "/AWS::EC2::Instance",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-CopySnapshot",
+        "CreatedDate": "2018-03-14T23:48:27.855000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "TargetType": "/AWS::EC2::Snapshot",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-InstallWindowsUpdates",
+        "CreatedDate": "2018-03-08T23:21:05.529000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "YAML",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-RunInspecChecks",
+        "CreatedDate": "2018-03-02T00:48:07.996000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-AttachEBSVolume",
+        "CreatedDate": "2018-02-16T22:58:52.955000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-DetachEBSVolume",
+        "CreatedDate": "2018-02-15T02:13:15.075000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "TargetType": "/AWS::EC2::Volume",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-DeleteSnapshot",
+        "CreatedDate": "2018-02-15T02:11:04.526000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::EC2::Snapshot",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-CreateSnapshot",
+        "CreatedDate": "2018-02-15T01:59:03.088000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::EC2::Volume",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-ASGExitStandby",
+        "CreatedDate": "2018-02-15T01:20:01.405000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "TargetType": "/AWS::EC2::Volume",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-ASGEnterStandby",
+        "CreatedDate": "2018-02-15T01:15:27.509000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "TargetType": "/AWS::EC2::Volume",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-ResizeInstance",
+        "CreatedDate": "2018-02-14T22:46:24.443000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::EC2::Instance",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-AttachIAMToInstance",
+        "CreatedDate": "2018-02-14T22:03:09.396000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "YAML",
+        "TargetType": "/AWS::EC2::Instance",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-InstallSpecificWindowsUpdates",
+        "CreatedDate": "2017-12-15T21:07:56.143000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Command",
+        "SchemaVersion": "1.2",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-InstallMissingWindowsUpdates",
+        "CreatedDate": "2017-12-15T21:03:09.163000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Command",
+        "SchemaVersion": "1.2",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-FindWindowsUpdates",
+        "CreatedDate": "2017-12-14T23:36:58.360000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Command",
+        "SchemaVersion": "1.2",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-ConfigureWindowsUpdate",
+        "CreatedDate": "2017-12-14T21:17:06.734000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Command",
+        "SchemaVersion": "1.2",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AmazonCloudWatch-MigrateCloudWatchAgent",
+        "CreatedDate": "2017-12-13T22:06:40.057000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows"
+        ],
+        "DocumentVersion": "2",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-StartEC2InstanceWithApproval",
+        "CreatedDate": "2017-11-22T00:34:12.756000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "TargetType": "/AWS::EC2::Instance",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-RestartEC2InstanceWithApproval",
+        "CreatedDate": "2017-11-22T00:34:10.547000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "TargetType": "/AWS::EC2::Instance",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-RestartEC2Instance",
+        "CreatedDate": "2017-11-22T00:34:05.589000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "TargetType": "/AWS::EC2::Instance",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-TerminateEC2InstanceWithApproval",
+        "CreatedDate": "2017-11-22T00:34:03.396000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "TargetType": "/AWS::EC2::Instance",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-TerminateEC2Instance",
+        "CreatedDate": "2017-11-22T00:34:01.176000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "TargetType": "/AWS::EC2::Instance",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-StopEC2InstanceWithApproval",
+        "CreatedDate": "2017-11-22T00:33:58.513000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "TargetType": "/AWS::EC2::Instance",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-StopEC2Instance",
+        "CreatedDate": "2017-11-22T00:33:14.653000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "TargetType": "/AWS::EC2::Instance",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-StartEC2Instance",
+        "CreatedDate": "2017-11-21T23:16:40.721000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "TargetType": "/AWS::EC2::Instance",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-DeleteCloudFormationStackWithApproval",
+        "CreatedDate": "2017-11-21T06:35:34.784000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "TargetType": "/AWS::CloudFormation::Stack",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-DeleteCloudFormationStack",
+        "CreatedDate": "2017-11-21T06:35:31.918000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "TargetType": "/AWS::CloudFormation::Stack",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-UpdateCloudFormationStackWithApproval",
+        "CreatedDate": "2017-11-21T06:35:28.966000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "TargetType": "/AWS::CloudFormation::Stack",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-UpdateCloudFormationStack",
+        "CreatedDate": "2017-11-21T06:33:50.231000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "TargetType": "/AWS::CloudFormation::Stack",
+        "Tags": []
+    },
+    {
+        "Name": "AWSEC2-CreateVssSnapshot",
+        "CreatedDate": "2017-11-20T18:00:13.840000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows"
+        ],
+        "DocumentVersion": "17",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSEC2-ManageVssIO",
+        "CreatedDate": "2017-11-20T17:59:31.525000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows"
+        ],
+        "DocumentVersion": "12",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AmazonCloudWatch-ManageAgent",
+        "CreatedDate": "2017-11-13T22:45:53.125000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "6",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSEC2-RunSysprep",
+        "CreatedDate": "2017-11-10T17:27:04.361000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows"
+        ],
+        "DocumentVersion": "7",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-GatherSoftwareInventory",
+        "CreatedDate": "2017-11-06T20:07:15.281000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Policy",
+        "SchemaVersion": "2.0",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-ConfigureAWSPackage",
+        "CreatedDate": "2017-11-02T22:20:07.561000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-RunRemoteScript",
+        "CreatedDate": "2017-10-26T00:33:39.919000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-RunDocument",
+        "CreatedDate": "2017-10-26T00:23:44.752000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSupport-ResetAccess",
+        "CreatedDate": "2017-10-16T22:30:15.045000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "10",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AmazonInspector-ManageAWSAgent",
+        "CreatedDate": "2017-10-10T18:09:05.199000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "16",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSupport-RunEC2RescueForWindowsTool",
+        "CreatedDate": "2017-09-29T18:10:01.157000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows"
+        ],
+        "DocumentVersion": "14",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWSSupport-ExecuteEC2Rescue",
+        "CreatedDate": "2017-09-18T22:53:24.651000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "13",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-UpdateWindowsAmi",
+        "CreatedDate": "2017-09-09T00:28:31.953000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-InstallPowerShellModule",
+        "CreatedDate": "2017-08-21T20:36:31.122000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-RunPowerShellScript",
+        "CreatedDate": "2017-08-21T20:35:03.797000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Command",
+        "SchemaVersion": "1.2",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-RunShellScript",
+        "CreatedDate": "2017-08-21T20:25:02.029000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Command",
+        "SchemaVersion": "1.2",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-RunSaltState",
+        "CreatedDate": "2017-07-13T22:31:07.121000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Linux"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.0",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-ListWindowsInventory",
+        "CreatedDate": "2017-07-06T21:58:10.609000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Command",
+        "SchemaVersion": "1.2",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-UpdateLinuxAmi",
+        "CreatedDate": "2017-05-24T22:40:21.007000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Automation",
+        "SchemaVersion": "0.3",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-RunAnsiblePlaybook",
+        "CreatedDate": "2017-05-24T22:32:34.088000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.0",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-UpdateEC2Config",
+        "CreatedDate": "2017-02-16T22:40:09.231000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-UpdateSSMAgent",
+        "CreatedDate": "2017-02-16T22:26:49.092000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-RunDockerAction",
+        "CreatedDate": "2016-11-15T22:11:08.409000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.0",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-ConfigureDocker",
+        "CreatedDate": "2016-11-15T22:08:17.396000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-RefreshAssociation",
+        "CreatedDate": "2016-11-15T21:58:08.428000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux",
+            "MacOS"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.0",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-JoinDirectoryServiceDomain",
+        "CreatedDate": "2015-10-15T16:05:41.497000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows",
+            "Linux"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Command",
+        "SchemaVersion": "1.2",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-InstallApplication",
+        "CreatedDate": "2015-10-15T16:04:12.498000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Command",
+        "SchemaVersion": "2.2",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    },
+    {
+        "Name": "AWS-ConfigureCloudWatch",
+        "CreatedDate": "2015-10-15T16:02:35.586000+00:00",
+        "Owner": "Amazon",
+        "PlatformTypes": [
+            "Windows"
+        ],
+        "DocumentVersion": "1",
+        "DocumentType": "Command",
+        "SchemaVersion": "1.2",
+        "DocumentFormat": "JSON",
+        "Tags": []
+    }
+]
